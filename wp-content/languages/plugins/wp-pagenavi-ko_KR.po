@@ -1,0 +1,196 @@
+# Translation of Plugins - WP-PageNavi - Stable (latest release) in Korean
+# This file is distributed under the same license as the Plugins - WP-PageNavi - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-05-05 18:21:38+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ko_KR\n"
+"Project-Id-Version: Plugins - WP-PageNavi - Stable (latest release)\n"
+
+#: core.php:130 core.php:149 core.php:161
+msgid "Page %s"
+msgstr "%s 쪽"
+
+#: admin.php:158
+msgid "Page Navigation Options"
+msgstr "페이지 네비게이션 옵션"
+
+#: admin.php:100
+msgid "Page Navigation Text"
+msgstr "페이지 네비게이션 텍스트"
+
+#: admin.php:33
+msgid "Text For Number Of Pages"
+msgstr "페이지의 번호를 위한 텍스트"
+
+#: admin.php:38
+msgid "The current page number."
+msgstr "현재 페이지 번호."
+
+#: admin.php:39 admin.php:63 admin.php:71
+msgid "The total number of pages."
+msgstr "페이지의 총 갯수."
+
+#: admin.php:43
+msgid "Text For Current Page"
+msgstr "현재 페이지를 위한 텍스트"
+
+#: admin.php:47 admin.php:55
+msgid "The page number."
+msgstr "페이지 번호."
+
+#: admin.php:51
+msgid "Text For Page"
+msgstr "페이지를 위한 텍스트"
+
+#: admin.php:93
+msgid "Text For Next ..."
+msgstr "다음을 위한 텍스트 ..."
+
+#: admin.php:87
+msgid "Text For Previous ..."
+msgstr "이전을 위한 텍스트 ..."
+
+#: admin.php:114
+msgid "Page Navigation Style"
+msgstr "페이지 네비게이션 스타일"
+
+#: admin.php:110 admin.php:125
+msgid "Yes"
+msgstr "예"
+
+#: admin.php:110 admin.php:125
+msgid "No"
+msgstr "아니오"
+
+#: admin.php:10
+msgid "PageNavi"
+msgstr "페이지네비"
+
+#: wp-pagenavi.php:20
+msgid "Page %CURRENT_PAGE% of %TOTAL_PAGES%"
+msgstr "페이지 %CURRENT_PAGE% 의 %TOTAL_PAGES%"
+
+#: wp-pagenavi.php:23
+msgid "&laquo; First"
+msgstr "&laquo; 처음"
+
+#: wp-pagenavi.php:24
+msgid "Last &raquo;"
+msgstr "마지막 &raquo;"
+
+#: wp-pagenavi.php:26
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: wp-pagenavi.php:25
+msgid "&laquo;"
+msgstr "&laquo;"
+
+#: wp-pagenavi.php:27 wp-pagenavi.php:28
+msgid "..."
+msgstr "..."
+
+#: scb/AdminPage.php:514
+msgid "Settings"
+msgstr "설정"
+
+#. Description of the plugin
+msgid "Adds a more advanced paging navigation to your WordPress blog"
+msgstr "워드프레스 블로그에 고급 페이징 탐색 기능을 추가합니다."
+
+#: admin.php:122
+msgid "Always Show Page Navigation"
+msgstr "항상 페이지 탐색 표시"
+
+#: admin.php:117
+msgid "Drop-down List"
+msgstr "드롭 다운 목록"
+
+#: admin.php:144
+msgid "Enter 0 to disable."
+msgstr "사용하지 않으려면 0을 입력하십시오."
+
+#: admin.php:143
+msgid "For example, WP-PageNavi will display: Pages 1, 2, 3, 4, 5, 10, 20, 30, 40, 50."
+msgstr "예를 들어 WP-PageNavi는 페이지 1, 2, 3, 4, 5, 10, 20, 30, 40, 50을 표시합니다."
+
+#: admin.php:153
+msgid "For example, if mutiple is 5, it will show: 5, 10, 15, 20, 25"
+msgstr "예를 들어, mutiple이 5이면 5, 10, 15, 20, 25가 표시됩니다."
+
+#: admin.php:142
+msgid "Larger page numbers are in addition to the normal page numbers. They are useful when there are many pages of posts."
+msgstr "더 큰 페이지 번호가 일반 페이지 번호에 추가됩니다. 많은 게시물 페이지가있는 경우 유용합니다."
+
+#: admin.php:101
+msgid "Leaving a field blank will hide that part of the navigation."
+msgstr "필드를 비워두면 해당 부분이 숨겨집니다."
+
+#. Author of the plugin
+msgid "Lester 'GaMerZ' Chan"
+msgstr "레스터 'GaMerZ'찬"
+
+#: admin.php:117
+msgid "Normal"
+msgstr "기본"
+
+#: admin.php:137
+msgid "Number Of Larger Page Numbers To Show"
+msgstr "보여줄 큰 페이지 번호의 수"
+
+#: admin.php:130
+msgid "Number Of Pages To Show"
+msgstr "표시 할 페이지 수"
+
+#: admin.php:9
+msgid "PageNavi Settings"
+msgstr "PageNavi 설정"
+
+#: scb/AdminPage.php:257
+msgid "Settings <strong>saved</strong>."
+msgstr "설정이 <strong>저장되었습니다</strong> ."
+
+#: admin.php:148
+msgid "Show Larger Page Numbers In Multiples Of"
+msgstr "여러 페이지 중 큰 페이지 번호 표시"
+
+#: admin.php:126
+msgid "Show navigation even if there's only one page."
+msgstr "한 페이지 만있는 경우에도 탐색을 표시하십시오."
+
+#: admin.php:59
+msgid "Text For First Page"
+msgstr "첫 페이지 용 텍스트"
+
+#: admin.php:67
+msgid "Text For Last Page"
+msgstr "마지막 페이지 용 텍스트"
+
+#: admin.php:81
+msgid "Text For Next Page"
+msgstr "다음 페이지를위한 텍스트"
+
+#: admin.php:75
+msgid "Text For Previous Page"
+msgstr "이전 페이지의 텍스트"
+
+#: admin.php:107
+msgid "Use pagenavi-css.css"
+msgstr "pagenavi-css.css 사용"
+
+#. Plugin Name of the plugin
+msgid "WP-PageNavi"
+msgstr "WP- PageNavi"
+
+#. Author URI of the plugin
+msgid "https://lesterchan.net"
+msgstr "https://lesterchan.net"
+
+#. Plugin URI of the plugin
+msgid "https://lesterchan.net/portfolio/programming/php/"
+msgstr "https://lesterchan.net/portfolio/programming/php/"

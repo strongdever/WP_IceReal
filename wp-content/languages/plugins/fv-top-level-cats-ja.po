@@ -1,0 +1,63 @@
+# Translation of Plugins - FV Top Level Categories - Development (trunk) in Japanese
+# This file is distributed under the same license as the Plugins - FV Top Level Categories - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-03-16 13:22:29+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - FV Top Level Categories - Development (trunk)\n"
+
+#. Author URI of the plugin/theme
+msgid "http://foliovision.com/"
+msgstr "http://foliovision.com/"
+
+#. Author of the plugin/theme
+msgid "Foliovision"
+msgstr "Foliovision"
+
+#. Description of the plugin/theme
+msgid "Removes the prefix from the URL for a category. For instance, if your old category link was <code>/category/catname</code> it will now be <code>/catname</code>"
+msgstr "カテゴリの URL からプレフィックスを削除します。例えば、カテゴリリンクが <code>/category/catname</code> のとき、 <code>/catname</code> になります。"
+
+#. Plugin URI of the plugin/theme
+msgid "http://foliovision.com/seo-tools/wordpress/plugins/fv-top-level-categories"
+msgstr "http://foliovision.com/seo-tools/wordpress/plugins/fv-top-level-categories"
+
+#: top-level-cats.php:428
+msgid "Settings"
+msgstr "設定"
+
+#: top-level-cats.php:412
+msgid "Since you are not using %category% in your post permalinks, there is nothing to adjust."
+msgstr "投稿のパーマリンクで %category% を使用していないため、調整する必要がありません。"
+
+#: top-level-cats.php:407
+msgid "Are you having any problems or questions? Use our <a target=\"_blank\" href=\"http://foliovision.com/support/fv-top-level-categories/\">support forums</a>."
+msgstr "問題や質問がありますか ? <a target=\"_blank\" href=\"http://foliovision.com/support/fv-top-level-categories/\">サポートフォーラム</a> を使用してください。"
+
+#: top-level-cats.php:403
+msgid "Save Changes"
+msgstr "変更を保存"
+
+#: top-level-cats.php:396
+msgid "Only allow following categories in URLs:"
+msgstr "URL には次のカテゴリのみを許可します : "
+
+#: top-level-cats.php:388
+msgid "Only use top-level categories in URLs."
+msgstr "URL にはトップレベルのカテゴリのみを使用してください。"
+
+#: top-level-cats.php:380
+msgid "Adjust categories in your post URLs"
+msgstr "投稿 URL のカテゴリを調整する"
+
+#. #-#-#-#-#  tmp-fv-top-level-cats.pot (FV Top Level Categories 1.8) 
+#. #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: top-level-cats.php:270 top-level-cats.php:368
+msgid "FV Top Level Categories"
+msgstr "FV Top Level Categories"

@@ -1,0 +1,72 @@
+# Translation of Plugins - Intuitive Custom Post Order - Stable (latest release) in Japanese
+# This file is distributed under the same license as the Plugins - Intuitive Custom Post Order - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-04-13 14:51:18+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - Intuitive Custom Post Order - Stable (latest release)\n"
+
+#: admin/settings-network.php:24
+msgid "Sites"
+msgstr "サイト"
+
+#: admin/settings-network.php:21
+msgid "Sortable Objects"
+msgstr "ソート可能なオブジェクト"
+
+#: admin/settings-network.php:3
+msgid "Intuitive Custom Post Order Network Settings"
+msgstr "直感的なカスタム投稿オーダーネットワーク設定"
+
+#. Author URI of the plugin
+msgid "http://hijiriworld.com/web/"
+msgstr "http://hijiriworld.com/web/"
+
+#. Author of the plugin
+msgid "hijiri"
+msgstr "hijiri"
+
+#. Description of the plugin
+msgid "Intuitively, Order Items( Posts, Pages, ,Custom Post Types, Custom Taxonomies, Sites ) using a Drag and Drop Sortable JavaScript."
+msgstr "ドラッグ & ドロップで並べ替え可能な JavaScript を使って、直感的に項目 (投稿、ページ、カスタム投稿タイプ、カスタムタクソノミー、サイト) の順序を変えることができます。"
+
+#. Plugin URI of the plugin
+msgid "http://hijiriworld.com/web/plugins/intuitive-custom-post-order/"
+msgstr "http://hijiriworld.com/web/plugins/intuitive-custom-post-order/"
+
+#. Plugin Name of the plugin
+msgid "Intuitive Custom Post Order"
+msgstr "Intuitive Custom Post Order"
+
+#: intuitive-custom-post-order.php:178 intuitive-custom-post-order.php:188
+msgid "Intuitive CPO"
+msgstr "並び替え設定"
+
+#: admin/settings.php:83 admin/settings-network.php:31
+msgid "Update"
+msgstr "更新"
+
+#: admin/settings.php:59
+msgid "Sortable Taxonomies"
+msgstr "カスタムタクソノミー"
+
+#: admin/settings.php:52 admin/settings.php:80
+msgid "All Check"
+msgstr "すべて選択"
+
+#: admin/settings.php:30
+msgid "Sortable Post Types"
+msgstr "カスタム投稿タイプ"
+
+#: admin/settings.php:16 admin/settings-network.php:8
+msgid "Settings saved."
+msgstr "設定を保存しました。"
+
+#: admin/settings.php:11
+msgid "Intuitive Custom Post Order Settings"
+msgstr "並び替え設定"
